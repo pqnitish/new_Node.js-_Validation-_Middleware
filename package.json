@@ -1,0 +1,25 @@
+{
+  "name": "new_node.js-_validation-_middleware",
+  "version": "1.0.0",
+  "description": "Topics Covered: Node.js and Express Middleware in Express Data Validation Error Handling HTTP Status Codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/new_Node.js-_Validation-_Middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/new_Node.js-_Validation-_Middleware/issues"
+  },
+  "homepage": "https://github.com/pqnitish/new_Node.js-_Validation-_Middleware#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
